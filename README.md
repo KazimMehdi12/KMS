@@ -2,4 +2,4 @@
 <u>
 </u>
 
-~STUDYING AT FAST NUCES (KHI) IN CS.
+~Computer Science Student at FAST NUCES
